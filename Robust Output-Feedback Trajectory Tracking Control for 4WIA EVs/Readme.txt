@@ -168,7 +168,8 @@ Under extreme conditions, the settling time increases by approximately 30 percen
 
 Authors
 
-Name: Touha Khalid
+Name: Touha Khalid & Muhammad Nawaz Awan
 Course: EE-605 Robust Control Systems
 Semester: Fall 2025
+
 
